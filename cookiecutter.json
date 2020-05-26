@@ -1,0 +1,12 @@
+{
+  "project_slug": "my_python_cli_app",
+  "project_description": "A sample command-line app",
+  "author": "avimehenwal",
+  "email": "avi.mehanwal@gmail.com",
+  "project_repository": "git@github.com:avimehenwal/cc-python-cli-app.git",
+  "version": "0.0.1",
+  "documentation_markup": [
+    "Markdown",
+    "reStructuredText"
+  ]
+}

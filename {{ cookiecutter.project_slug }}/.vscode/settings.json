@@ -1,0 +1,16 @@
+{
+  "python.pythonPath": "venv/bin/python",
+  "conventionalCommits.scopes": [
+      "scaffold",
+      "core",
+      "cli",
+      "api",
+      "package-manager",
+      "changelog",
+      "readme",
+      "lint",
+      "release",
+      "vscode",
+      "logging"
+  ]
+}
