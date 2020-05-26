@@ -12,6 +12,13 @@ Ci tool               | travis
 building tool         | doit
 docs                  | vuepress
 
+## Usage
+
+```
+cookiecutter ./cc-python-cli-app/
+cookiecutter 
+```
+
 ## References
 
 * [jinja2 filters](https://jinja.palletsprojects.com/en/2.11.x/templates/#list-of-builtin-filters)
